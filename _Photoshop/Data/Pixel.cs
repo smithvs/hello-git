@@ -11,6 +11,7 @@ namespace MyPhotoshop
         private double g;
         private double b;
 
+		private double ss;
 
         public Pixel(double r, double g, double b)
         {
